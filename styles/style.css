@@ -1,0 +1,28 @@
+.nike-btn-buy-now{
+    background-image: linear-gradient(to bottom, #3D4FF3 0%, #5935c5 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.nike-shoes-color{
+    color: #FA804C;
+}
+.nike-shoes-color-2{
+color: #363958;
+}
+h1{font-family: 'Oswald', sans-serif;}
+
+.price-color{color: #FA804C;
+    font-family: 'Oswald', sans-serif;}
+
+main{background: #E5E5E5;}
+
+.feedback-option{
+    color: #363958;
+}
+.feedback-p{
+    color: #3E3E3E;
+}
